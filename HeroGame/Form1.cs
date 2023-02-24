@@ -45,7 +45,7 @@ namespace HeroGame
         {
             username = usernameInput.Text;
             difficulty = "Hard";
-            easyButton.BackColor = Color.Yellow;
+            easyButton.BackColor = Color.White;
             mediumButton.BackColor = Color.White;
             hardButton.BackColor = Color.Red;
         }
